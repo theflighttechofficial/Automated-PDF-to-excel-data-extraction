@@ -78,15 +78,6 @@ sample_output/
 
 ## 📷 Screenshots
 
-*Add screenshots of the application here.*
-
-```
-screenshots/
-├── home.png
-├── processing.png
-└── output.png
-```
-
 ---
 
 ## 🚀 Applications
@@ -119,7 +110,7 @@ The implementation source code is not publicly available because it was develope
 
 ## 👨‍💻 Author
 
-**Varun Vaibhav**
+**Varun Vaibhav.S**
 
 Computer Science (AI & Data Analytics)
 
