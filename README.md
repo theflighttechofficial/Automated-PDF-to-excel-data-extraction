@@ -70,14 +70,13 @@ Generated Excel File
 README.md
 docs/
 screenshots/
-sample_input/
-sample_output/
 ```
 
 ---
 
 ## 📷 Screenshots
 
+Check inside the folder in the contents
 ---
 
 ## 🚀 Applications
