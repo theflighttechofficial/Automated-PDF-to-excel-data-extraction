@@ -76,7 +76,12 @@ screenshots/
 
 ## 📷 Screenshots
 
-Check inside the folder in the contents
+### Reference image
+![Reference image](Pdf-excel-tool-screenshots/Reference_image.png)
+
+### vscode
+![vscode](Pdf-excel-tool-screenshots/vscode.png)
+
 ---
 
 ## 🚀 Applications
