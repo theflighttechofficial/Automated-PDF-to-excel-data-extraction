@@ -77,7 +77,7 @@ screenshots/
 ## 📷 Screenshots
 
 ### Reference image
-![Reference image](Pdf-excel-tool-screenshots/Reference_image.png)
+![Reference image](Pdf-excel-tool-screenshots/Reference%20image.png)
 
 ### vscode
 ![vscode](Pdf-excel-tool-screenshots/vscode.png)
